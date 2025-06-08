@@ -1,6 +1,6 @@
 # 🚀 Sobre mim:
 
-- Formado em Analise e desenvolvimento de Sistemas.
+- Formado em Análise e desenvolvimento de Sistemas.
 - Estudante da EBAC (Profissão: Desenvolvedor Full Stack Java)
 - Estudante da DIO.me através de Bootcamps e demais cursos.
 
